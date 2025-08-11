@@ -27,6 +27,7 @@
       "quickSearch": 1,
       "filterable": 1
     },
+    {"key":"drpy_js_Missav","name":"🎖‍Missav","type":3,"api":"https://cdn.jsdelivr.net/gh/yxcqr/DZDRPY@main/libs/drpy.min.js","ext":"https://cdn.jsdelivr.net/gh/yxcqr/DZDRPY@main/js/Missav.js"},
     {
       "key": "shayu",
       "name": "shayu",
